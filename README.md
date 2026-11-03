@@ -16,7 +16,7 @@ A precise tuner for **guitar, bass, ukulele and violin**, with a chromatic mode 
 
 - **Just play.** The tuner finds which string you're playing and shows how far off it is, to the cent. Keep turning the peg while the string rings; the needle follows along.
 - **24 tunings and your own:** Drop D, DADGAD, open tunings, half step down, 7-string guitar, 5- and 6-string bass, low-G and baritone ukulele, viola and more. Or make your own with any notes.
-- **Hear every string.** Tap the speaker under a string to hear its note, played by a real guitar or violin, so you can tune by ear.
+- **Hear every string.** Tap the speaker under a string to hear its note in the instrument's own sound (real recordings for guitar and violin), so you can tune by ear.
 - **Stand view.** A huge note, arrow and colour you can read from across the room. The screen turns green when you're in tune.
 - **Works offline**, once you've opened it.
 - **Your sound stays on your device.** The microphone is analysed on your phone or computer; nothing is uploaded.
